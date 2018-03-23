@@ -67,4 +67,17 @@ a:hover {
 h3 {
       font-family: verdana;
       color: gray;
-      
+}
+  .textbox {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 22px;
+  width: 100%;
+  height: 75%;
+  padding: 0px;
+  margin: auto;
+  border-radius: 3px;
+  border: 0px solid #111111;
+  background-color: rgba(173, 173, 173, 0.65);
+  margin-left: auto;
+   margin-right: auto;
+}    
