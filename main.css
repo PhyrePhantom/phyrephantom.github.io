@@ -51,19 +51,25 @@ mark {
   border: 0px solid #111111;
   background-color: rgba(173, 173, 173, 0.65);
 }
-      a {
+      a.button {
   color: #424242;
   text-decoration: none;
   transition-duration: 0.4s;
   text-decoration: none;
   
 }
-a:hover {
+a.button:hover {
   color: white;
   text-decoration: underline;
   font-size: 20px;
   text-decoration: none;
       }
+a {
+  color: #424242;   
+  text-decoration: none;
+}
+a:hover {
+  color: white;
 h3 {
       font-family: verdana;
       color: gray;
