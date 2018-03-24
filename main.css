@@ -58,9 +58,11 @@ a.button:hover {
 a {
   color: #424242;   
   text-decoration: none;
+    font-family: verdana;
 }
 a:hover {
   color: white;
+    font-family: verdana;
 }
 h3 {
       font-family: verdana;
