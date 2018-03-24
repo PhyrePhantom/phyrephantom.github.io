@@ -47,6 +47,7 @@ mark {
   text-decoration: none;
   transition-duration: 0.4s;
   text-decoration: none;
+  font-weight: bold;
   
 }
 a.button:hover {
