@@ -1,9 +1,9 @@
-
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono:600');
     p {
       font-family: verdana;
       font-size: 18;    }
     h1 {
-      font-family: 'Concert One', cursive;
+      font-family: 'IBM Plex Mono', monospace;
       color: #c4c4c4;
       font-size: 44px;
     }
